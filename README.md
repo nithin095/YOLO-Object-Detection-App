@@ -1,6 +1,3 @@
-<img width="1366" height="768" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/1b6a4943-5d93-42e6-9ab6-2bffecb0a4e4" />
-<img width="1366" height="768" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/bc668749-dd9f-4d5d-8a93-0157e65a9ad4" />
-<img width="1366" height="768" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/1daa1e4b-b5dc-4b16-a83f-96a207077a66" />
 # 🤖 YOLOv8 Object Detection App
 
 An AI-powered Object Detection application built using **YOLOv8**, **Python**, **Streamlit**, and **OpenCV**. The application supports object detection on **images**, **videos**, and **live webcam streams** through an interactive web interface.
@@ -92,11 +89,13 @@ streamlit run app.py
 
 ### Home Page
 
-()
+(<img width="1366" height="607" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/a6d071f8-3a87-4dc3-b6c7-0f85a1fdc566" />
+)
 
 ### Image Detection
 
-(Add Screenshot Here)
+(<img width="1366" height="595" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/1c7c0902-82f7-46c2-8628-6513093e616d" />
+)
 
 ### Video Detection
 
