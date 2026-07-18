@@ -89,7 +89,7 @@ streamlit run app.py
 
 ### Home Page
 
-(Add Screenshot Here)
+(![Uploading Screenshot (298).png…]())
 
 ### Image Detection
 
